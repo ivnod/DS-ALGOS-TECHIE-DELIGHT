@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/Easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/EasyExtension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/Medium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/MediumExtension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day1/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day1/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day1/EasyExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/EasyExtension.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <recent name="org.vinod.day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EasyExtension">
+  <component name="RunManager" selected="Application.MediumExtension">
     <configuration name="Beginner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinod.day1.Beginner" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
@@ -86,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day1.Medium" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.vinod.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediumExtension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day1.MediumExtension" />
+      <module name="DS-ALGOS-TECHIE-DELIGHT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinod.day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,10 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MediumExtension" />
+        <item itemvalue="Application.Medium" />
         <item itemvalue="Application.EasyExtension" />
         <item itemvalue="Application.Easy" />
         <item itemvalue="Application.Beginner" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695961643208</updated>
-      <workItem from="1695961645039" duration="2615000" />
+      <workItem from="1695961645039" duration="4457000" />
     </task>
     <servers />
   </component>

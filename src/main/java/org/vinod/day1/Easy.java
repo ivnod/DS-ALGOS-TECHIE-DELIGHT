@@ -16,7 +16,7 @@ public class Easy {
       return;
     }
     HashSet<Integer> set = new HashSet<>();
-    set.add(0);
+
     for (int i = 0; i < nums.length; i++) {
       if (set.contains(target - nums[i])) {
         System.out.println("Pair found :: " + nums[i] + " , " + (target - nums[i]));
