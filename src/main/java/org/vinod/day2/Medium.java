@@ -1,29 +1,33 @@
 package org.vinod.day2;
 
-import java.util.HashSet;
+import java.util.*;
 
-// Check if a subarray with 0 sum exists or not
+// Print all subarrays with 0 sum
 public class Medium {
   public static void main(String[] args) {
     int[] nums = {3, 4, -7, 3, 1, 3, 1, -4, -2, -2};
 
-    if (hasZeroSumSubarray(nums)) {
-      System.out.println("Subarray exists");
-    } else {
-      System.out.println("Subarray does not exist");
+    printAllSubarrays(nums);
+  }
+
+  private static void printAllSubarrays(int[] nums) {
+    Map<Integer, List<Integer>> hashMap = new HashMap<>();
+    insert(hashMap, 0, -1);
+    int sum = 0;
+    for (int i = 0; i < nums.length; i++) {
+      sum += nums[i];
+      if (hashMap.containsKey(sum)) {
+        List<Integer> list = hashMap.get(sum);
+        for (Integer value : list) {
+          System.out.println("Subarray " + (value + 1) + "...." + i);
+        }
+      }
+      insert(hashMap, sum, i);
     }
   }
 
-  private static boolean hasZeroSumSubarray(int[] nums) {
-    HashSet<Integer> set = new HashSet<>();
-    set.add(0);
-    int sum = 0;
-    for (int num : nums) {
-      sum = sum + num;
-      if (set.contains(sum)) return true;
-      set.add(sum);
-    }
-
-    return false;
+  private static void insert(Map<Integer, List<Integer>> hashMap, int key, int value) {
+    hashMap.putIfAbsent(key, new ArrayList<>());
+    hashMap.get(key).add(value);
   }
 }
