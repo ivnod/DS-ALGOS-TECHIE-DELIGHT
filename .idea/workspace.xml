@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Beginner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/BeginnerExtension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Easy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Hard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/HardExtension1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/HardExtension2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Medium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/MediumExtension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Easy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/vinod/IdeaProjects/DS-ALGOS-TECHIE-DELIGHT/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinod/IdeaProjects/DS-ALGOS-TECHIE-DELIGHT/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vinod\IdeaProjects\DS-ALGOS-TECHIE-DELIGHT\src\main\java" />
@@ -56,7 +49,7 @@
       <recent name="org.vinod.day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Beginner">
+  <component name="RunManager" selected="Application.Easy">
     <configuration name="Beginner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinod.day2.Beginner" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
@@ -83,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day1.Hard" />
+    <configuration name="Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day2.Easy" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinod.day1.*" />
+          <option name="PATTERN" value="org.vinod.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day1.Medium" />
+    <configuration name="Hard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day1.Hard" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Easy" />
         <item itemvalue="Application.Beginner" />
         <item itemvalue="Application.BeginnerExtension" />
         <item itemvalue="Application.Hard" />
         <item itemvalue="Application.MediumExtension" />
-        <item itemvalue="Application.Medium" />
       </list>
     </recent_temporary>
   </component>
