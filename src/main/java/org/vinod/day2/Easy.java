@@ -1,4 +1,4 @@
-package org.vinod.day1;
+package org.vinod.day2;
 
 import java.util.HashSet;
 
