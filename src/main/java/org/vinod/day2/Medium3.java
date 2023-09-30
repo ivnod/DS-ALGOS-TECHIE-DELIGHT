@@ -1,11 +1,10 @@
 package org.vinod.day2;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 // Generate the power set of a given set
-public class BeginnerExtension {
+public class Medium3 {
   public static void main(String[] args) {
     int[] S = {1, 2, 3};
     findPowerSet(S);

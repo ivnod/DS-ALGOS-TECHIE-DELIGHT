@@ -1,7 +1,7 @@
 package org.vinod.day2;
 // Find the index of 0 to be replaced to get the maximum length sequence of continuous ones in
 // binary array
-public class HardExtension2 {
+public class Medium2 {
   public static void main(String[] args) {
     int[] A = {0, 0, 1, 0, 1, 1, 1, 0, 1, 1};
 

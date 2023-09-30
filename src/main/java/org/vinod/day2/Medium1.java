@@ -3,7 +3,7 @@ package org.vinod.day2;
 import java.util.*;
 
 // Find subarrays with a given sum in an array
-public class MediumExtension {
+public class Medium1 {
   public static void main(String[] args) {
     int[] nums = {3, 4, -7, 3, 1, 3, 1, -4, -2, -2};
     int target = 7;
