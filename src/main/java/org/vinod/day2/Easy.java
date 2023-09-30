@@ -1,30 +1,27 @@
 package org.vinod.day2;
 
+import java.util.Arrays;
 import java.util.HashSet;
 
-// Find a pair with the given sum in an array
+// Bubble Sort
 public class Easy {
   public static void main(String[] args) {
-    int nums[] = {5, 2, 6, 8, 1, 9};
-    int target = 12;
-    findPairs(nums, target);
+    int[] arr = {3, 5, 8, 4, 1, 9, -2};
+
+    bubbleSort(arr);
+
+    System.out.println(Arrays.toString(arr));
   }
 
-  private static void findPairs(int[] nums, int target) {
-    if (nums.length < 2) {
-      System.out.println("Invalid input");
-      return;
-    }
-    HashSet<Integer> set = new HashSet<>();
-
-    for (int i = 0; i < nums.length; i++) {
-      if (set.contains(target - nums[i])) {
-        System.out.println("Pair found :: " + nums[i] + " , " + (target - nums[i]));
-        return;
-      } else {
-        set.add(nums[i]);
+  private static void bubbleSort(int[] arr) {
+    for (int i = 0; i < arr.length - 1; i++) {
+      for (int j = 0; j < arr.length - 1 - i; j++) {
+        if (arr[j] > arr[j + 1]) {
+          int temp = arr[j + 1];
+          arr[j + 1] = arr[j];
+          arr[j] = temp;
+        }
       }
     }
-    System.out.println("No Pair found");
   }
 }
