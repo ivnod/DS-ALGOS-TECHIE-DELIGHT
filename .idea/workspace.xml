@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day1/Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Beginner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/BeginnerExtension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Easy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Hard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/HardExtension1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/HardExtension2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/Medium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day2/MediumExtension.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,21 +43,26 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vinod/IdeaProjects/DS-ALGOS-TECHIE-DELIGHT/src/main/java"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vinod\IdeaProjects\DS-ALGOS-TECHIE-DELIGHT\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.vinod.day2" />
       <recent name="org.vinod.day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hard">
-    <configuration name="Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day1.Easy" />
+  <component name="RunManager" selected="Application.Beginner">
+    <configuration name="Beginner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day2.Beginner" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinod.day1.*" />
+          <option name="PATTERN" value="org.vinod.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EasyExtension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day1.EasyExtension" />
+    <configuration name="BeginnerExtension" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day2.BeginnerExtension" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinod.day1.*" />
+          <option name="PATTERN" value="org.vinod.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Beginner" />
+        <item itemvalue="Application.BeginnerExtension" />
         <item itemvalue="Application.Hard" />
         <item itemvalue="Application.MediumExtension" />
         <item itemvalue="Application.Medium" />
-        <item itemvalue="Application.EasyExtension" />
-        <item itemvalue="Application.Easy" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695961643208</updated>
       <workItem from="1695961645039" duration="6065000" />
+      <workItem from="1696044147670" duration="3276000" />
     </task>
     <servers />
   </component>
