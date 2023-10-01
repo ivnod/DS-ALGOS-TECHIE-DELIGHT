@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day3/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day3/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day3/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day3/Hard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <recent name="org.vinod.day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Easy">
+  <component name="RunManager" selected="Application.org.vinod.day3.Hard">
     <configuration name="Beginner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinod.day3.Beginner" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
@@ -70,19 +70,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.vinod.day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Easy1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day2.Easy1" />
-      <module name="DS-ALGOS-TECHIE-DELIGHT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinod.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.vinod.day3.Hard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day3.Hard" />
+      <module name="DS-ALGOS-TECHIE-DELIGHT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinod.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.vinod.day3.Hard" />
         <item itemvalue="Application.Easy" />
         <item itemvalue="Application.Beginner" />
         <item itemvalue="Application.Hard" />
         <item itemvalue="Application.Medium2" />
-        <item itemvalue="Application.Easy1" />
       </list>
     </recent_temporary>
   </component>
