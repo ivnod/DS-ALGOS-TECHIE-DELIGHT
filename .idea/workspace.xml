@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day5/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day5/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day5/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day5/Easy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,7 @@
       <workItem from="1695961645039" duration="6065000" />
       <workItem from="1696044147670" duration="3276000" />
       <workItem from="1696293885206" duration="482000" />
-      <workItem from="1696336270015" duration="342000" />
+      <workItem from="1696336270015" duration="402000" />
     </task>
     <servers />
   </component>
