@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day7/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day7/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day7/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day7/Medium.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <recent name="org.vinod.day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.vinod.day7.Easy">
+  <component name="RunManager" selected="Application.Medium">
     <configuration name="Easy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.vinod.day6.Easy" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.vinod.day6.Beginner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day6.Beginner" />
+    <configuration name="Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day7.Medium" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinod.day6.*" />
+          <option name="PATTERN" value="org.vinod.day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Medium" />
         <item itemvalue="Application.org.vinod.day7.Easy" />
         <item itemvalue="Application.Hard" />
         <item itemvalue="Application.org.vinod.day6.Medium" />
         <item itemvalue="Application.Easy" />
-        <item itemvalue="Application.org.vinod.day6.Beginner" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,7 @@
       <workItem from="1696293885206" duration="482000" />
       <workItem from="1696336270015" duration="1291000" />
       <workItem from="1696424522696" duration="1859000" />
-      <workItem from="1696516074244" duration="616000" />
+      <workItem from="1696516074244" duration="1746000" />
     </task>
     <servers />
   </component>
