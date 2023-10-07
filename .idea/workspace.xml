@@ -205,6 +205,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.vinod.day8.Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day8.Medium" />
+      <module name="DS-ALGOS-TECHIE-DELIGHT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.vinod.day8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.org.vinod.day7_5_10_23.Hard" />
@@ -229,6 +242,7 @@
       <workItem from="1696336270015" duration="1291000" />
       <workItem from="1696424522696" duration="1859000" />
       <workItem from="1696516074244" duration="3019000" />
+      <workItem from="1696579577559" duration="907000" />
     </task>
     <servers />
   </component>
