@@ -1,4 +1,4 @@
-package org.vinod.day8;
+package org.vinod.day28;
 
 // Graph implementation in Java
 public class Beginner {

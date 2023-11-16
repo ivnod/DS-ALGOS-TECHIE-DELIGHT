@@ -1,4 +1,4 @@
-package org.vinod.day13;
+package org.vinod.day33;
 
 // Introduction to Priority Queues using Binary Heaps
 public class Beginner {

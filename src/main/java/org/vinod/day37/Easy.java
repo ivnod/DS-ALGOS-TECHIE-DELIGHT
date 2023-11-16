@@ -1,4 +1,4 @@
-package org.vinod.day17;
+package org.vinod.day37;
 
 // Pop operation in a linked list
 

@@ -1,4 +1,4 @@
-package org.vinod.day19;
+package org.vinod.day40;
 
 // Stack implementation using a Linked List
 public class Beginner {

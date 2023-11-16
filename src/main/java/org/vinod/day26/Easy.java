@@ -1,4 +1,4 @@
-package org.vinod.day6;
+package org.vinod.day26;
 
 // Clock Angle problem
 

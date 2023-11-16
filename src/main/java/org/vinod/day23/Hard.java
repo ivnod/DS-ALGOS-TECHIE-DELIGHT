@@ -1,4 +1,4 @@
-package org.vinod.day3;
+package org.vinod.day23;
 // Maximum Product Subarray Problem
 public class Hard {
   public static void main(String[] args) {

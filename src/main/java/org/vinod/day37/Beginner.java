@@ -1,4 +1,4 @@
-package org.vinod.day17;
+package org.vinod.day37;
 
 // Linked List - Insertion at tail
 public class Beginner {

@@ -1,4 +1,4 @@
-package org.vinod.day5;
+package org.vinod.day25;
 
 // Ternary Search vs Binary Search
 // Ternary is not faster than Bianry because of the comparisons involved

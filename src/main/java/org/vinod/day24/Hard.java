@@ -1,4 +1,4 @@
-package org.vinod.day4;
+package org.vinod.day24;
 // Trapping rain water problem. Find the maximum amount of water that can be trapped within a given
 // set of bars where each bar’s width is 1 unit.
 public class Hard {

@@ -1,4 +1,4 @@
-package org.vinod.day12;
+package org.vinod.day32;
 
 import java.util.Arrays;
 

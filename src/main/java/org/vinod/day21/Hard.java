@@ -1,4 +1,4 @@
-package org.vinod.day1;
+package org.vinod.day21;
 // Find the index of 0 to be replaced to get the maximum length sequence of continuous ones in
 // binary array
 public class Hard {

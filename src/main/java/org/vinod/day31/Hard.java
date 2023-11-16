@@ -1,4 +1,4 @@
-package org.vinod.day11;
+package org.vinod.day31;
 
 // Find the maximum absolute difference between the sum of two non-overlapping subarrays
 public class Hard {

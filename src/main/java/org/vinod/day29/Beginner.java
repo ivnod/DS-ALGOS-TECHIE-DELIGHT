@@ -1,4 +1,4 @@
-package org.vinod.day9;
+package org.vinod.day29;
 
 // 07-10-23
 // Types of edges involved in DFS and relation between them

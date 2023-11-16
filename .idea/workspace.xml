@@ -4,7 +4,104 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="" />
+    <list default="true" id="bda6a6cf-1e47-4e8d-b67e-0a69993cdb70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/beginner/InorderTraversalRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/beginner/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day20/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day21/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/beginner/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day21/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day21/EasyExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/EasyExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day21/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day21/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day21/MediumExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day21/MediumExtension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Easy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Easy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day22/Medium3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day23/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day23/beginner/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day23/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day23/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day23/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day23/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day23/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day23/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Easy1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Easy1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day24/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day25/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day26/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day27/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day28/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day29/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day3/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day3/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day30/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day31/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day32/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day33/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day34/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day35/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day36/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day37/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day38/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day39/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Beginner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Hard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Hard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Medium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day40/Medium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/vinod/day5/Beginner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/vinod/day5/Beginner.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +119,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2W3WFGejyY10VmvgmWzwVRhI5Ww" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -58,26 +158,13 @@
       <recent name="org.vinod.day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.vinod.day7.Hard">
-    <configuration name="Hard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day6.Hard" />
+  <component name="RunManager" selected="Application.InorderTraversalRecursive">
+    <configuration name="InorderTraversalRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.vinod.day21.beginner.InorderTraversalRecursive" />
       <module name="DS-ALGOS-TECHIE-DELIGHT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.vinod.day6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Medium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.vinod.day7.Medium" />
-      <module name="DS-ALGOS-TECHIE-DELIGHT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.vinod.day7.*" />
+          <option name="PATTERN" value="org.vinod.day21.beginner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,6 +226,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InorderTraversalRecursive" />
         <item itemvalue="Application.org.vinod.day7.Hard" />
         <item itemvalue="Application.org.vinod.day7.Easy" />
         <item itemvalue="Application.org.vinod.day6.Medium" />

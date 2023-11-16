@@ -1,4 +1,4 @@
-package org.vinod.day2;
+package org.vinod.day22;
 // Maximum Sum Subarray Problem
 public class Easy1 {
   public static void main(String[] args) {

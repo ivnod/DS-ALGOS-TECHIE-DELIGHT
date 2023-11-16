@@ -1,7 +1,7 @@
-package org.vinod.day1;
+package org.vinod.day21.beginner;
 
 // Introduction to Pattern Matching
-public class Beginner {
+public class Trie {
   public static void main(String[] args) {
     String text = "ABCABAABCABAC";
     String pattern = "CAB";

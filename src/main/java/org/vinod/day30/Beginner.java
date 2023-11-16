@@ -1,4 +1,4 @@
-package org.vinod.day10;
+package org.vinod.day30;
 
 // 08-10-23
 // Introduction to Priority Queues using Binary Heaps

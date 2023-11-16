@@ -1,4 +1,4 @@
-package org.vinod.day8;
+package org.vinod.day28;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

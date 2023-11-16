@@ -1,4 +1,4 @@
-package org.vinod.day4;
+package org.vinod.day24;
 
 import java.util.HashMap;
 import java.util.Map;

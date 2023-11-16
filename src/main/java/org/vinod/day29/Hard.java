@@ -1,4 +1,4 @@
-package org.vinod.day9;
+package org.vinod.day29;
 
 // Find a minimum range with atleast one element from each of given arrays
 public class Hard {

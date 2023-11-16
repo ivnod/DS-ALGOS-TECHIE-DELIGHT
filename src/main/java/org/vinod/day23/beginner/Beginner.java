@@ -1,4 +1,4 @@
-package org.vinod.day3;
+package org.vinod.day23.beginner;
 
 // Implement stack in Java
 public class Beginner {

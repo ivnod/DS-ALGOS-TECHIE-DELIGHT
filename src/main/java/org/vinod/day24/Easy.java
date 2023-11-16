@@ -1,4 +1,4 @@
-package org.vinod.day4;
+package org.vinod.day24;
 
 // Reverse a string using recursion
 public class Easy {
